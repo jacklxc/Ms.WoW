@@ -1,6 +1,7 @@
 # Ms.WoW
 
-Repository for LREC-COLING 2024 paper "A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation".
+Repository for LREC-COLING 2024 paper [A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation](https://aclanthology.org/2024.lrec-main.58/
+).
 
 ## Ms.WoW Dataset
 Download from [here](https://drive.google.com/file/d/1j-FvDMgCfQwJjvj7Mjt6haYCSZoAeRZz/view?usp=sharing).
